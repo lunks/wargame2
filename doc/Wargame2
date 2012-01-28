@@ -4,7 +4,7 @@ Neste arquivo pretendo explicar como funciona e colocar algumas questoes
 
 Esquadroes
 1 - Criar esquadroes divididos em quatro facções.
-2 - Possibilidade de criar alianças
+2 - Possibilidade de criar alianças no cadastramento.
 
 Creditos
 1 - Squads devem poder negociar credito entre si
@@ -18,7 +18,7 @@ Obs 1: Acho que o dominio podia ser assim: Se o cara nao tem trooper nenhum mas 
 
 Fabricas
 1 - Geram naves, armamentos e tropas
-2 - Devem possuir niveis que podem ser "upados", evitando construção de novas fabricas
+2 - Devem possuir niveis que podem ser "upados", esses upgrades aumentariam a produção, evitando construção de novas fabricas.
 3 - Nao se movem
 4 - Capturados zeram troopers e diminuem poder em 20%
 
@@ -31,6 +31,7 @@ Movimentos
 1 - Só pra planetas dentro das rotas
 2 - Movimento pra planeta inimigo é considerado combate e abre possibilidade de postar resultados
 3 - Melhorar a forma de movimentar, dar a possibilidade de fazer td junto. Validando movimentos de naves sem hiperdrive, armamentos etc q devem mover junto com CS.
+4 - É bom prever a quantidade de tropas que uma determinada CS ou transporte pode carregar.
 
 Post de resultados
 1 - Postar destruidos, capturados e fugidos
