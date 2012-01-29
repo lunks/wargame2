@@ -14,6 +14,7 @@
 * Quem chegar primeiro no planeta garante o domínio
 * Quem possui Troopers domina terra
 * Caso não haja Troopers, o domínio do planeta é total no espaço
+* (Pergunta) É possivel dividir o dominio caso mais esquadrões (aliados ou não) possuam CS/Fabricas e tropas?
 
 
 ##Fabricas
@@ -35,7 +36,13 @@
 * Naves devem ser movidas todas ao mesmo tempo, e validar dentro das naves que estão sendo movidas se está tudo ok
 * Ilustrar quantas naves podem ser movidas no total pelas CS
 * Caças podem mover 1 míssil cada um
+* (Pergunta) Possibilidade de cancelar movimentos? Uma forma facil que evita exploit (cancelar um transporte que enviava troopers e os troopers continuarem) seria poder cancelar o movimento inteiro do planeta.
+* (Pergunta) Um bugzinho que tem no WG atual é que quando tem trooper em solo ele pode "ver" pra onde as naves inimigas que estão bloqueando estão indo. Acho que não deveria mostrar nada ou no máximo deveria mostrar "moving" e não pra onde.
 
+##Fugas
+* Devem ser prioritariamente para planetas aliados
+* Devem ser randômicas
+* Debitam 20% do valor da "frota fugida" do esquadrão 
 
 ##Post de resultados
 * Postar destruidos, capturados e fugidos
@@ -43,7 +50,6 @@
 
 
 ## Usabilidade do jogo
-
 * São turnos, e todos envolvem planetas. Seria ideal manter o mesmo layout através das telas (a lista dos planetas, etc.)
 * Mostrar claramente a ordem de combates
-* Randomizar as chegadas nos planetas
+* Randomizar a ordem das chegadas nos planetas
